@@ -1,13 +1,13 @@
-# 🏥 Doctor Appointment Booking System (MERN Stack)
+# Doctor Appointment Booking System (MERN Stack)
 
 A full-stack Doctor Appointment Booking web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).  
 This system allows users to book doctor appointments online, doctors to manage their profiles, and admins to approve doctors and manage users.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 👤 User
+###  User
 - Register & Login
 - View profile
 - Apply to become a doctor
@@ -15,12 +15,12 @@ This system allows users to book doctor appointments online, doctors to manage t
 - View appointment status
 - Receive notifications
 
-### 🩺 Doctor
+###  Doctor
 - Doctor profile management
 - View patient appointments
 - Update availability timings
 
-### 🛡 Admin
+###  Admin
 - Admin login
 - Approve / reject doctor applications
 - View all users
@@ -29,7 +29,7 @@ This system allows users to book doctor appointments online, doctors to manage t
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React.js  
